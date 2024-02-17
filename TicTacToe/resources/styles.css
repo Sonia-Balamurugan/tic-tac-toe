@@ -1,0 +1,42 @@
+/* styles.css */
+
+.root {
+    -fx-background-color: #f0f0f0; /* Set background color */
+}
+
+.game-board {
+    -fx-padding: 10px;
+}
+
+.game-button {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-background-color: #ffffff; /* Set button background color */
+}
+
+.game-button:hover {
+    -fx-background-color: #dcdcdc; /* Set button background color on hover */
+}
+
+.stack-pane {
+    -fx-background-color: #f0f0f0; /* Set background color */
+    -fx-padding: 10px; /* Set padding */
+}
+
+.status-text {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-padding: 5px;
+}
+
+.reset-button {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 8px 16px;
+    -fx-background-color: #4CAF50; /* Set reset button background color */
+    -fx-text-fill: #ffffff; /* Set reset button text color */
+}
+
+.reset-button:hover {
+    -fx-background-color: #45a049; /* Set reset button background color on hover */
+}
