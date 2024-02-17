@@ -24,6 +24,10 @@ cd tic-tac-toe
 javac *.java
 java TicTacToeApp
 ```
+## Tech Stack
+- **JavaFX**: Used for creating the graphical user interface.
+- **Java**: Programming language used for implementing the game logic.
+- **CSS**: Used to keep the styling separate.
 
 ## Contributing
 Contributions to improve the Tic Tac Toe game are welcome! If you have any ideas for new features, enhancements, bug fixes, or optimizations, feel free to open an issue or submit a pull request.
